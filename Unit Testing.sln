@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyComponentLib", "MyComponentLib\MyComponentLib.csproj", "{41CE4E58-748D-4C7E-BFB3-8DAB6A23B792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyComponentsLib.Tests", "MyComponentsLib.Tests\MyComponentsLib.Tests.csproj", "{33C0011F-BEFC-4710-8221-00B31AE771D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41CE4E58-748D-4C7E-BFB3-8DAB6A23B792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41CE4E58-748D-4C7E-BFB3-8DAB6A23B792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41CE4E58-748D-4C7E-BFB3-8DAB6A23B792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41CE4E58-748D-4C7E-BFB3-8DAB6A23B792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C0011F-BEFC-4710-8221-00B31AE771D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C0011F-BEFC-4710-8221-00B31AE771D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C0011F-BEFC-4710-8221-00B31AE771D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C0011F-BEFC-4710-8221-00B31AE771D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2B302BA-1705-4E43-81CE-F316DFAB5CDC}
+	EndGlobalSection
+EndGlobal
