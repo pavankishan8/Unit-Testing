@@ -1,0 +1,6 @@
+D:\Starmark-Pavan R\Unit Testing\Unit Testing\MyComponentLib\bin\Debug\MyComponentLib.dll
+D:\Starmark-Pavan R\Unit Testing\Unit Testing\MyComponentLib\bin\Debug\MyComponentLib.pdb
+D:\Starmark-Pavan R\Unit Testing\Unit Testing\MyComponentLib\obj\Debug\MyComponentLib.csprojAssemblyReference.cache
+D:\Starmark-Pavan R\Unit Testing\Unit Testing\MyComponentLib\obj\Debug\MyComponentLib.csproj.CoreCompileInputs.cache
+D:\Starmark-Pavan R\Unit Testing\Unit Testing\MyComponentLib\obj\Debug\MyComponentLib.dll
+D:\Starmark-Pavan R\Unit Testing\Unit Testing\MyComponentLib\obj\Debug\MyComponentLib.pdb
